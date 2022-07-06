@@ -1,6 +1,6 @@
 body{
 margin: 0%;
-font-family: 'Poppins', sans-serif;
+font-family: 'Splash', cursive;
 }
 section{
 margin: 0%;
@@ -84,15 +84,75 @@ h3{
     border: 2px solid red;
     color: red;
 }
-#s3{
+#text5{
+    text-align: center;
+    margin-top: 70px;
+}
+h2{
+    font-size: 50px;
+}
+#s30{
     display: flex;
+   margin: 0px ;
+   padding: 10px;
+   position: 30px 0px;
+   margin-bottom: 30px;
 }
-#s3.1{
-
+#s31{
+background-color:rgb(158, 226, 226)  ;
+background-repeat: no-repeat;
+border-radius: 5px;
+padding: 100px;
+margin-left: 0px;
 }
-#s3.2{
-
+#s32{
+    background-color:rgb(164, 255, 171)  ;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    padding: 100px;
+    margin-left: 10px;
 }
-#s3.3{
-    
+#s33{
+    background-color:rgb(255, 240, 146)  ;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    padding: 100px;
+    margin-left: 10px;
+}
+.s6{
+    text-align: center;
+    margin: 0%;
+    padding-bottom: 5px;
+}
+.button3{
+    background-color: rgba(255, 89, 89, 1);
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: azure;
+    text-decoration: none;
+    font-weight: 600;
+    box-shadow: 1px 1px 5px rgb(238, 14, 14) ;
+}
+.s7{
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgb(236, 202, 161);
+}
+.footer0{
+    background-color: black;
+  
+}
+.footer{
+    font-size: 50px;
+margin: 0%;
+    color: red;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Splash', cursive;
+}
+.footer1{
+    text-align: center;
+    color: aliceblue;
+    padding-bottom: 15px;
+    margin: 0%;
 }
