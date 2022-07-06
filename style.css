@@ -35,10 +35,13 @@ h1{
     box-shadow: 1px 1px 5px rgb(238, 14, 14) ;
 
 }
-#text2{
-    text-align: center;
-    margin: 0%;
-    padding: 100px;
+.text2{
+    margin-top:70px;
+    padding: 0px;
+    font-size: 50px;
+
+}
+.text3{
 
 }
 h3{
@@ -52,7 +55,44 @@ h3{
     text-decoration: none;
     font-weight: 600;
     box-shadow: 1px 1px 5px rgb(238, 14, 14) ;
+    
 }
 #s2{
-  
+    border-bottom: 1px solid rgb(195, 195, 195);
+
+    color: rgb(204, 204, 204);
+}
+#amount{
+    display: flex;
+    text-align: center;
+    margin-left: 25%;
+    
+    
+}
+.h3text{
+    background-color: rgb(158, 158, 158);
+    padding: 40px 20px;
+    border-radius: 5px;
+    margin: 8px;
+
+}
+#h3text2{
+    background-color: rgb(237, 162, 162);
+    padding: 40px 20px;
+    border-radius: 5px;
+    margin: 8px;
+    border: 2px solid red;
+    color: red;
+}
+#s3{
+    display: flex;
+}
+#s3.1{
+
+}
+#s3.2{
+
+}
+#s3.3{
+    
 }
